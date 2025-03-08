@@ -1,5 +1,6 @@
 # Documento de Requisitos de Software
 Brandon Kevin Mamani Roque
+Primer Semestre
 ## 1. Introducción.
 Editado por por el primer push;
 ### 1.1. Alacance de Producto.
@@ -8,6 +9,7 @@ Editado por por el primer push;
 ### 1.4. Uso Previsto.
 ### 1.5. Descripción General.
 ## 2. Requisitos.
+Editado por el segundo push
 ### 2.1. Requistos Funcionales.
 ### 2.2. Requistos de Diseño.
 ### 2.2. Requistos no Funcionales.
