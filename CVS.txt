@@ -11,5 +11,6 @@ Editado por por el primer push;
 ## 2. Requisitos.
 Editado por el segundo push
 ### 2.1. Requistos Funcionales.
+Editado por el segundo pc jsjs
 ### 2.2. Requistos de Diseño.
 ### 2.2. Requistos no Funcionales.
