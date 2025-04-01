@@ -1,4 +1,4 @@
-# Documento de Requisitos de Software
+# Documento de Requisitos de Software (ERS)
 Brandon Kevin Mamani Roque
 Primer Semestre
 ## 1. Introducción.
